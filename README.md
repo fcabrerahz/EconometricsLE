@@ -43,11 +43,11 @@ Llegar a clase puntual (sólo se admite un retraso de 10 minutos). No se puede u
 1.	Introducción a Econometría (1 Sesión) Ch.1 Wooldridge.
 
 2.	Regresión Simple (4 sesiones)
-a.	Derivación de MCO, Bondad de Ajuste, Supuestos Clásicos.
+a.	MCO, Bondad de Ajuste, Supuestos Clásicos.
 Ch2. Wooldridge; Ch.2.1 Ch2.2 Ch.2.4 Verbeek
 
 3.	Regresión Múltiple: (6 Sesiones)
-a.	Bondad de Ajuste; Sesgo de selección y por omisión, Varianza de Error y Estimadores; Notación Matricial
+a.	Sesgo de selección y por omisión, Varianza de Error y Estimadores; Notación Matricial
 Ch.2, Ch.3 Wooldridge; Ch4 Studenmund; Ch 2.3 Verbeek.
 
 4.	Test de Hipótesis (inferencia) (3 sesiones).
@@ -65,7 +65,7 @@ Ch 8, Wooldridge.
 a.	Breusch-Pagan y White Tests; Weighted and Feasible Least-Squares (WLS - FLS); Generalized Least Squares.
 
 7.	Especificación (2 sesiones).
-Ch 9 Wooldridge 
+Ch 9, Wooldridge 
 a.	Prueba de no linealidad; Error de medición; missing values.
 
 8.	Outcomes Potenciales (2 sesiones).
