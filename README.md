@@ -80,4 +80,4 @@ a.	Lectura 3: Acemoglu, D., & Johnson, S. (2007). Disease and development: the e
 13.	Variable dependiente limitada (3 sesiones) Ch 17 Wooldridge, 
 a.	Probit y Logit.
 
-EXAMEN Final (Diciembre)
+Proyecto Final (Diciembre)
