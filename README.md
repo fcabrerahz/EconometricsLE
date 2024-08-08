@@ -1,10 +1,10 @@
 # Econometrics LECO
 Econometría LE OT2024
 
-Profesor: Dr. Francisco J. Cabrera
+**Profesor**: Dr. Francisco J. Cabrera
 francisco.cabrera@cide.edu
-Oficina: Planta Alta
-Horas de Oficina: lunes 12:10 a 14:10 horas o con cita.
+**Oficina**: Planta Alta
+**Horas de Oficina**: lunes 12:10 a 14:10 horas o con cita.
 
 Laboratorio: Montserrath Vázquez
 montserrath.vazquez@alumnos.cide.edu
@@ -40,44 +40,54 @@ Llegar a clase puntual (sólo se admite un retraso de 10 minutos). No se puede u
 
 ## Temario: (Calendario aproximado)
  
-1.	Introducción a Econometría (1 Sesión) Ch.1 Wooldridge.
+### 1.	Introducción a Econometría (1 Sesión) Ch.1, Wooldridge.
 
-2.	Regresión Simple (4 sesiones)
+### 2.	Regresión Simple (4 sesiones)
+
 a.	MCO, Bondad de Ajuste, Supuestos Clásicos.
-Ch2. Wooldridge; Ch.2.1 Ch2.2 Ch.2.4 Verbeek
+Ch.2, Wooldridge; Ch.2.1 Ch2.2 Ch.2.4, Verbeek.
 
-3.	Regresión Múltiple: (6 Sesiones)
+### 3.	Regresión Múltiple: (6 Sesiones)
+
 a.	Sesgo de selección y por omisión, Varianza de Error y Estimadores; Notación Matricial
-Ch.2, Ch.3 Wooldridge; Ch4 Studenmund; Ch 2.3 Verbeek.
+Ch.2, Ch.3 Wooldridge; Ch.4, Studenmund; Ch. 2.3, Verbeek.
 
-4.	Test de Hipótesis (inferencia) (3 sesiones).
-Ch4 Wooldridge.
+### 4.	Test de Hipótesis (inferencia) (3 sesiones).
+Ch.4, Wooldridge.
 
-5.	Regresión Múltiple II: (3 Sesiones)
+### 5.	Regresión Múltiple II: (3 Sesiones)
+
 a.	Propiedades Asintóticas, Otras especificaciones e interacciones; Variables Dummy.
-Ch.5, Ch 6, Ch7, Wooldridge.
+Ch.5, Ch.6, Ch.7, Wooldridge.
+
 b.	Lectura 1: Fernandez, R. (2007). Women, work, and culture. Journal of the European Economic Association, 5(2-3), 305-332.
 
 EXAMEN Parcial 1 (Octubre)
 
-6.	Heteroscedasticidad, Multicolinearidad y Correlación Serial (3 sesiones).
-Ch 8, Wooldridge.
+### 6.	Heteroscedasticidad, Multicolinearidad y Correlación Serial (3 sesiones).
+
 a.	Breusch-Pagan y White Tests; Weighted and Feasible Least-Squares (WLS - FLS); Generalized Least Squares.
+Ch.8, Wooldridge.
 
-7.	Especificación (2 sesiones).
-Ch 9, Wooldridge 
+### 7.	Especificación (2 sesiones).
+
 a.	Prueba de no linealidad; Error de medición; missing values.
+Ch.9, Wooldridge
 
-8.	Outcomes Potenciales (2 sesiones).
-Ch 1, 2, 3.2 Angrist & Pirschke. 
+### 8.	Outcomes Potenciales (2 sesiones).
+
 a.	Experimento y resultados potenciales; Identificación Causal; Malos controles.
+Ch.1, Ch.2, Ch.3.2 Angrist & Pirschke. 
+
 b.	Lectura 2: Dynarski, S., Libassi, C. J., Michelmore, K., & Owen, S. (2018). Closing the Gap: The Effect of a Targeted, Tuition-Free Promise on College Choices of High-Achieving, Low-Income Students (No. w25349). National Bureau of Economic Research.
 
-11.	Variables Instrumentales y Mínimos Cuadrados Ordinarios en 2 etapas (3 Sesiones).
-Ch15, Wooldridge.
+### 9.	Variables Instrumentales y Mínimos Cuadrados Ordinarios en 2 etapas (3 Sesiones).
+Ch.15, Wooldridge.
+
 a.	Lectura 3: Acemoglu, D., & Johnson, S. (2007). Disease and development: the effect of life expectancy on economic growth. Journal of political Economy, 115(6), 925-985.
 
-13.	Variable dependiente limitada (3 sesiones) Ch 17 Wooldridge, 
+### 10.	Variable dependiente limitada (3 sesiones)
 a.	Probit y Logit.
+Ch.17, Wooldridge. 
 
 Proyecto Final (Diciembre)
