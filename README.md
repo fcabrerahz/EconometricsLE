@@ -44,7 +44,7 @@ Llegar a clase puntual (sólo se admite un retraso de 10 minutos). No se puede u
 
 ### 2.	Regresión Simple (4 sesiones)
 
-a.	MCO, Bondad de Ajuste, Supuestos Clásicos.
+a.	MCO, Bondad de Ajuste, Supuestos Estándar.
 Ch.2, Wooldridge; Ch.2.1 Ch2.2 Ch.2.4, Verbeek.
 
 ### 3.	Regresión Múltiple: (6 Sesiones)
