@@ -3,14 +3,17 @@ Econometría LE OT2024
 
 **Profesor**: Dr. Francisco J. Cabrera
 francisco.cabrera@cide.edu
+
 **Oficina**: Planta Alta
+
 **Horas de Oficina**: lunes 12:10 a 14:10 horas o con cita.
 
-Laboratorio: Montserrath Vázquez
+**Laboratorio:** Montserrath Vázquez
 montserrath.vazquez@alumnos.cide.edu
 
-Horario de Clase: lunes y miércoles de 9:40 a 11:10 horas.
-Horario de Laboratorio: TBD.
+**Horario de Clase:** lunes y miércoles de 9:40 a 11:10 horas.
+
+**Horario de Laboratorio:** TBD.
 
 ## Objetivo General:
 El objetivo del curso es dotar al alumno con las herramientas teóricas y prácticas necesarias para entender y aplicar las técnicas econométricas más usuales en el análisis de la relación entre variables económicas. 
