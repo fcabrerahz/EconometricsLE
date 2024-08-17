@@ -1,5 +1,7 @@
 ---
-title: "Actividad 1. Econometría LECO"
+title: "Actividad 1. Regresión Simple"
+subtitle: "Econometría LECO"
+author: "Dr. Francisco Cabrera"
 output:
   pdf_document: default
   'pdf_document: default': default
@@ -57,7 +59,6 @@ g. ejecute:
 summary(fitted(reg))
 summary(y)
 ```
-h. Demuestre formalmente (matemáticamente) que $\bar{Y} = \bar{\hat{Y}}$ 
 
 ## 3. Creando sus propios datos para indagar $R^2$.
 
@@ -101,7 +102,7 @@ summary(wagereg)
 a.	Interprete los coeficientes $\beta_0$ y $\beta_1$ ¿Es el signo de $\beta_1$ el esperado? ¿por qué?
 b.	Obtenga $R^2$ mediante el cálculo de $SST/SSE/SSR$.
 c.	¿Bajo qué supuestos, de los estudiados en clase hasta ahora, podemos interpretar $\beta_1$ como el efecto de la educación en ingresos? Describa cada uno formalmente.
-d.	¿Qué supuesto de Gauss-Markov estamos violando y por qué? 
+d.	¿Qué supuesto estándar estamos violando y por qué? 
 e.	Demuestre formalmente el sesgo del estimador $\beta_1$ bajo violación de ese supuesto.
 
 ## 5. Utilizando datos de 2018 sobre ventas de casas en México, la siguiente ecuación es estimada, referente al precio de la casa y en relación con la distancia, en kilómetros, a un basurero municipal recientemente instalado: 
