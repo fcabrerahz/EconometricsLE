@@ -21,7 +21,7 @@ El objetivo del curso es dotar al alumno con las herramientas teóricas y práct
 ## Objetivos Específicos:
 -	Aprender la teoría econométrica detrás del modelo de regresión simple y multivariado.
 -	Aplicar el modelo de regresión a través de ejercicios computacionales en R.  
--	Desarrollar habilidades de extracción, administración, procesamiento, modelación e interpretación de datos económicos. 
+-	Desarrollar habilidades de extracción, administración, procesamiento, modelación e interpretación de datos económicos a través de un proyecto. 
 -	Aprender teóricamente las violaciones a los supuestos de los modelos de regresión simples y desarrollar las habilidades para identificarlos y resolverlos empíricamente.
 -	Leer e interpretar resultados de investigación que utilizan econometría aplicada.
 
