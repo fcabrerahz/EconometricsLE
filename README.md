@@ -44,7 +44,7 @@ Llegar a clase puntual (sólo se admite un retraso de 10 minutos). No se puede u
  
 ### 1.	Introducción a Econometría (1 Sesión) Ch.1, Wooldridge.
 
-Presentación: https://rpubs.com/fcabrerahz/metrics_leco_intro
+[(Presentación aquí)](https://rpubs.com/fcabrerahz/metrics_leco_intro)
 
 ### 2.	Regresión Simple (4 sesiones)
 
@@ -52,7 +52,7 @@ a.	MCO, Bondad de Ajuste, Supuestos Estándar.
 
 *Ch.2, Wooldridge; Ch.2.1 Ch2.2 Ch.2.4, Verbeek.*
 
-Presentación: https://rpubs.com/fcabrerahz/metrics_leco_regsimple
+[(Presentación aquí)](https://rpubs.com/fcabrerahz/metrics_leco_regsimple)
 
 ### 3.	Regresión Múltiple: (6 Sesiones)
 
