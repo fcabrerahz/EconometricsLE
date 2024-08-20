@@ -40,7 +40,7 @@ La calificación final se basará en un exámen parcial con una ponderación del
 ## Reglamento: 
 Llegar a clase puntual (sólo se admite un retraso de 10 minutos). No se puede utilizar celular durante la clase.
 
-## Temario: (Calendario aproximado)
+## Temario:
  
 ### 1.	Introducción a Econometría (1 Sesión) Ch.1, Wooldridge.
 
