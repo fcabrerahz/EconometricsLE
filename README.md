@@ -74,7 +74,7 @@ a.	Propiedades Asintóticas, Otras especificaciones e interacciones; Variables D
 
 b.	Lectura 1: Fernandez, R. (2007). Women, work, and culture. Journal of the European Economic Association, 5(2-3), 305-332.
 
-**EXAMEN Parcial 1 (Octubre).**
+${\color{red}\text{EXAMEN Parcial (Octubre).}}$
 
 ### 6.	Heteroscedasticidad, Multicolinearidad y Correlación Serial (3 sesiones).
 
@@ -110,4 +110,4 @@ a.	Probit y Logit.
 
 *Ch.17, Wooldridge.* 
 
-**Proyecto Final (Diciembre 14)**
+${\color{red}\text{Proyecto Final (Diciembre 14),}}$
