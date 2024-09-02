@@ -40,7 +40,7 @@ La calificación final se basará en un exámen parcial con una ponderación del
 ## Reglamento: 
 Llegar a clase puntual (sólo se admite un retraso de 10 minutos). No se puede utilizar celular durante la clase.
 
-## Temario: (Calendario aproximado)
+## Temario:
  
 ### 1.	Introducción a Econometría (1 Sesión) Ch.1, Wooldridge.
 
@@ -60,6 +60,8 @@ a.	Sesgo de selección y por omisión, Varianza de Error y Estimadores; Notació
 
 *Ch.2, Ch.3 Wooldridge; Ch. 2.3, Verbeek.*
 
+[(Presentación aquí)](https://rpubs.com/fcabrerahz/metrics_leco_regmulti)
+
 ${\color{green}\text{Avance 1: Proyecto Final.}}$
 
 ### 4.	Test de Hipótesis (inferencia) (3 sesiones).
@@ -74,7 +76,7 @@ a.	Propiedades Asintóticas, Otras especificaciones e interacciones; Variables D
 
 b.	Lectura 1: Fernandez, R. (2007). Women, work, and culture. Journal of the European Economic Association, 5(2-3), 305-332.
 
-**EXAMEN Parcial 1 (Octubre).**
+${\color{red}\text{EXAMEN Parcial (Octubre).}}$
 
 ### 6.	Heteroscedasticidad, Multicolinearidad y Correlación Serial (3 sesiones).
 
@@ -110,4 +112,4 @@ a.	Probit y Logit.
 
 *Ch.17, Wooldridge.* 
 
-**Proyecto Final (Diciembre 14)**
+${\color{red}\text{Proyecto Final (Diciembre 14),}}$
