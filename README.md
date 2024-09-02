@@ -60,6 +60,8 @@ a.	Sesgo de selección y por omisión, Varianza de Error y Estimadores; Notació
 
 *Ch.2, Ch.3 Wooldridge; Ch. 2.3, Verbeek.*
 
+[(Presentación aquí)](https://rpubs.com/fcabrerahz/metrics_leco_regmulti)
+
 ${\color{green}\text{Avance 1: Proyecto Final.}}$
 
 ### 4.	Test de Hipótesis (inferencia) (3 sesiones).
