@@ -62,13 +62,15 @@ a.	Sesgo de selección y por omisión, Varianza de Error y Estimadores; Notació
 
 [(Presentación aquí)](https://rpubs.com/fcabrerahz/metrics_leco_regmulti)
 
-${\color{green}\text{Avance 1: Proyecto Final.}}$
+${\color{green}\text{Avance 1: Proyecto Final. Septiembre 25.}}$
 
 ### 4.	Test de Hipótesis (inferencia) (3 sesiones).
 
 *Ch.4, Wooldridge.*
 
-### 5.	Regresión Múltiple II: (3 Sesiones)
+[(Presentación aquí)](https://www.dropbox.com/scl/fi/a2ah3sstudwx5vug1u224/Tema-4.-Inference.pptx?rlkey=gsc4l4dylqkdp23ij88shhpx2&st=6baw08gx&dl=0)
+
+### 5.	Regresión Múltiple II: (3 Sesiones).
 
 a.	Propiedades Asintóticas, Otras especificaciones e interacciones; Variables Dummy.
 
