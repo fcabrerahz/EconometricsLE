@@ -1,0 +1,59 @@
+#Clear the environment
+rm(list = ls())
+
+#Packages and library
+install.packages("ggpubr") #to create kernel distributions (histograms but with lines)
+library("ggpubr")
+
+help(rnorm)
+help(runif)
+
+#creamos variables
+set.seed(123) #esto sirve para que siempre cree los mismos numeros aleatorios
+x <- runif(100, min=0, max=1)
+error <- rnorm(100, mean=0, sd=5)
+y <-15+(7*x) + error 
+
+#histogram
+hist(x)
+hist(error)
+hist(y)
+shapiro.test(error) #test for normality of errors "we do not reject Ho: Normality"
+
+ggdensity(error) #we can create this esily thanks to the package ggpubr
+
+#lets make a regression using the random variables we created.
+regresion <- lm(y ~ x)
+summary(regresion)
+
+#scatterplot
+plot(x, y, main = "Main title",
+     xlab = "X axis title", ylab = "Y axis title",
+     pch = 19, frame = FALSE) +
+  abline(lm(y ~ x, data = mtcars), col = "blue")
+
+#lets create other x and y
+set.seed(123) #esto sirve para que siempre cree los mismos n?meros aleatorios
+x <- runif(100, min=0, max=1)
+error <- rnorm(100, mean=0, sd=1)
+y <-15+(7*x) + error 
+
+hist(error)
+
+
+regresion <- lm(y ~ x)
+summary(regresion)
+
+#scatterplot
+plot(x, y, main = "Main title",
+     xlab = "X axis title", ylab = "Y axis title",
+     pch = 19, frame = FALSE) +
+abline(lm(y ~ x, data = mtcars), col = "blue")
+
+#otra forma de graficar
+plot(x, y, xlab='x', ylab='y')
+abline(regresion)
+
+#predict values
+valores.x <- data.frame(x = seq(30, 31))
+predict(regresion, valores.x)

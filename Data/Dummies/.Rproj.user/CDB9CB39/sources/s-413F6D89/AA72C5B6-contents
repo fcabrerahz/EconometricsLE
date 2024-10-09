@@ -1,0 +1,153 @@
+#Load the height data set and create a vector x with just the male heights:
+#compute proportion between 69 and 72 inches
+install.packages("dslabs")
+library(dslabs)
+data(heights)
+
+#Explore data
+View(heights)
+
+#Table of proportions
+prop.table(table(heights$sex))
+
+x <- heights$height[heights$sex == "Male"]
+mean(x > 69 & x <= 72)
+
+avg <- mean(x)
+stdev <- sd(x)
+
+#proportion above 72 and below 69
+a <- pnorm (72, avg, stdev, lower.tail=FALSE)
+b <- pnorm (69, avg, stdev, lower.tail=TRUE)
+
+#Report how many times bigger the actual proportion is compared to the approximation.
+
+x <- heights$height[heights$sex == "Male"]
+exact <- mean(x > 79 & x <= 81)
+exact
+avg <- mean(x)
+stdev <- sd(x)
+a <- pnorm (81, avg, stdev, lower.tail=FALSE) 
+b <- pnorm (79, avg, stdev, lower.tail=TRUE)
+aprox <- 1-a-b
+aprox
+r <- aprox - exact
+r
+
+####
+library(dslabs)
+data(heights)
+
+mean(x <= 69.5)
+
+p <- seq(0.05, 0.95, 0.05)
+
+observed_quantiles <- quantile(x, p)
+
+theoretical_quantiles <- qnorm( p, mean = mean(x), sd = sd(x))
+
+plot(theoretical_quantiles, observed_quantiles)
+abline(0,1)
+
+observed_quantiles <- quantile(z, p)
+theoretical_quantiles <- qnorm(p) 
+plot(theoretical_quantiles, observed_quantiles)
+abline(0,1)
+
+### create quantiles 
+library(dslabs)
+data(heights)
+male <- heights$height[heights$sex=="Male"]
+female <- heights$height[heights$sex=="Female"]
+female_percentiles <- quantile(heights$height[heights$sex=="Female"], seq(0.1 , 0.9, 0.2))
+male_percentiles <- quantile(heights$height[heights$sex=="Male"], seq(0.1 , 0.9, 0.2))
+df <- data.frame(female = c(female_percentiles), male = c (male_percentiles))
+View(df)
+
+### write functions ###
+
+fahrenheit_to_kelvin <- function(temp_F) {
+  temp_K <- ((temp_F - 32) * (5 / 9)) + 273.15
+  return(temp_K)
+}
+
+fahrenheit_to_kelvin(32)
+
+kelvin_to_celsius <- function(temp_K) {
+  temp_C <- temp_K - 273.15
+  return(temp_C)
+}
+
+fahrenheit_to_celsius <- function(temp_F) {
+  temp_K <- fahrenheit_to_kelvin(temp_F)
+  temp_C <- kelvin_to_celsius(temp_K)
+  return(temp_C)
+}
+
+## writea function to evaluates k and returns the average vector x after the first entry has changed to k.
+x <- Galton$child
+error_avg <- function(k){
+  x[1] <- k    
+  return (mean(x))
+}
+error_avg(10)
+
+## using ggplot,
+#saving plot as object p
+library(dplyr)
+library(ggplot2)
+library(dslabs)
+data(heights)
+data(murders)
+
+p <- ggplot(murders)
+
+#we can use the pipe
+p <- murders %>% ggplot()
+
+# define ggplot object called p like in the previous exercise but using a pipe 
+p <- heights %>% ggplot()
+
+## Fill in the blanks
+murders %>% ggplot(aes(x = total , y = population )) + geom_point()
+
+#same
+murders %>% ggplot(aes(total, population)) + geom_point()
+
+### edit the next line to add the label
+murders %>% ggplot(aes(x= population, y = total, label= abb)) + geom_label()
+
+#make labels blue
+murders %>% ggplot(aes(population, total,label= abb)) +
+  geom_label(color = "blue")
+
+## diff color by region
+murders %>% ggplot(aes(population, total, label = abb, color = region)) +
+  geom_label()
+
+
+## add layers for log scaling
+p <- murders %>% ggplot(aes(population, total, label = abb, color = region)) + geom_label()
+p + scale_y_log10() + scale_x_log10() + ggtitle("Gun murder data")
+
+# define p here for a histogram
+p <- heights %>% ggplot(aes(height)) + geom_histogram(binwidth = 1)
+
+#for a kernel
+heights %>% 
+  ggplot(aes(height)) + geom_density()
+
+
+## add the group argument then a layer with +
+heights %>% 
+  ggplot(aes(height, group = sex)) + geom_density()
+
+#colours!
+
+heights %>% 
+  ggplot(aes(height, group = sex, color = sex)) + geom_density()
+
+#nice blending
+heights %>% 
+  ggplot(aes(height, fill = sex)) + 
+  geom_density(alpha = 0.2) 
