@@ -82,11 +82,13 @@ b.	Lectura 1: Fernandez, R. (2007). Women, work, and culture. Journal of the Eur
 
 ${\color{red}\text{EXAMEN Parcial (Octubre 14).}}$
 
-### 6.	Heteroscedasticidad, Multicolinearidad y Correlación Serial (3 sesiones).
+### 6.	Heteroscedasticidad y Multicolinearidad (3 sesiones).
 
 a.	Breusch-Pagan y White Tests; Weighted and Feasible Least-Squares (WLS - FLS); Generalized Least Squares.
 
 *Ch.8, Wooldridge.*
+
+[(Presentación aquí)](https://www.dropbox.com/scl/fi/66bf2zz0e0pydn7a8wg2p/Tema-6.-Heteroscedasticidad-y-Multicolinealidad.pptx?rlkey=xww4in6akomo3yhq9ie96xtgm&st=zryry41h&dl=0)
 
 ${\color{green}\text{Avance 2: Proyecto Final.}}$
 
