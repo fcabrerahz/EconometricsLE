@@ -56,7 +56,7 @@ a.	MCO, Bondad de Ajuste, Supuestos Estándar.
 
 ### 3.	Regresión Múltiple: (6 Sesiones)
 
-a.	Sesgo de selección y por omisión, Varianza de Error y Estimadores; Notación Matricial.
+a.	Sesgo de selección y por omisión, Varianza del Error y de Estimadores; Notación Matricial.
 
 *Ch.2, Ch.3 Wooldridge; Ch. 2.3, Verbeek.*
 
@@ -82,9 +82,9 @@ b.	Lectura 1: Fernandez, R. (2007). Women, work, and culture. Journal of the Eur
 
 ${\color{red}\text{EXAMEN Parcial (Octubre 14).}}$
 
-### 6.	Heteroscedasticidad y Multicolinearidad (3 sesiones).
+### 6.	Heteroscedasticidad (3 sesiones).
 
-a.	Breusch-Pagan y White Tests; Weighted and Feasible Least-Squares (WLS - FLS); Generalized Least Squares.
+a.	Errores Robustos; Weighted and Feasible Least-Squares (WLS - FLS); Generalized Least Squares.
 
 *Ch.8, Wooldridge.*
 
