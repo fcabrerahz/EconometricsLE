@@ -98,6 +98,9 @@ a.	Prueba de no linealidad; Error de medición; missing values.
 
 *Ch.9, Wooldridge.*
 
+[(Presentación aquí)](https://www.dropbox.com/scl/fi/j7d8f532xv5lyw0laizf9/Tema-7.-Especificaci-n-y-Error-de-Medici-n.pptx?rlkey=0ijj47xnpxgmwz86m6xnlc6az&st=s7knf4kv&dl=0)
+
+
 ### 8.	Outcomes Potenciales (2 sesiones).
 
 a.	Experimento y resultados potenciales; Identificación Causal; Malos controles.
