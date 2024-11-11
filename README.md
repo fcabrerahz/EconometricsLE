@@ -108,6 +108,9 @@ a.	Experimento y resultados potenciales; Identificación Causal; Malos controles
 
 b.	Lectura 2: Dynarski, S., Libassi, C. J., Michelmore, K., & Owen, S. (2018). Closing the Gap: The Effect of a Targeted, Tuition-Free Promise on College Choices of High-Achieving, Low-Income Students (No. w25349). National Bureau of Economic Research.
 
+[(Presentación aquí)](https://rpubs.com/fcabrerahz/t8)
+
+
 ### 9.	Variables Instrumentales y Mínimos Cuadrados Ordinarios en 2 etapas (3 Sesiones).
 
 *Ch.15, Wooldridge.*
