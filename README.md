@@ -117,6 +117,8 @@ b.	Lectura 2: Dynarski, S., Libassi, C. J., Michelmore, K., & Owen, S. (2018). C
 
 a.	Lectura 3: Acemoglu, D., & Johnson, S. (2007). Disease and development: the effect of life expectancy on economic growth. Journal of Political Economy, 115(6), 925-985.
 
+[(Presentación aquí)](https://www.dropbox.com/scl/fi/nq9utur7c2a54bqvz9nr8/Tema-9.-Variables-Instrumentales.pptx?rlkey=ci5b9atx0gxzvs56f7pa5y7x2&st=hc88bh3d&dl=0)
+
 ### 10.	Variable dependiente limitada (3 sesiones)
 
 a.	Probit y Logit.
