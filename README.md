@@ -31,6 +31,7 @@ El objetivo del curso es dotar al alumno con las herramientas teóricas y práct
 ## Lecturas Obligatorias:
 - OLS: Fernandez, R. (2007). Women, work, and culture. Journal of the European Economic Association, 5(2-3), 305-332.
 - RCT: Dynarski, S., Libassi, C. J., Michelmore, K., & Owen, S. (2018). Closing the Gap: The Effect of a Targeted, Tuition-Free Promise on College Choices of High-Achieving, Low-Income Students (No. w25349). National Bureau of Economic Research.
+- RCT: Duflo, A., Kiessel, J., & Lucas, A. M. (2024). Experimental evidence on four policies to increase learning at scale. The Economic Journal, 134(661), 1985-2008.
 - IV: Acemoglu, D., & Johnson, S. (2007). Disease and development: the effect of life expectancy on economic growth. Journal of Political Economy, 115(6), 925-985.
 
 ## Método de Evaluación:
