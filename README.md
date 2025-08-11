@@ -1,4 +1,4 @@
-# Econometría LE OT2024
+# Econometría LE OT2025
 
 **Profesor**: Dr. Francisco J. Cabrera
 francisco.cabrera@cide.edu
