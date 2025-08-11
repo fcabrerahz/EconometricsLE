@@ -5,12 +5,11 @@ francisco.cabrera@cide.edu
 
 **Oficina**: Planta Alta
 
-**Horas de Oficina**: lunes 12:10 a 14:10 horas o con cita.
+**Horas de Oficina**: Martes 09:00 a 11:00 horas o con cita.
 
-**Laboratorio:** Montserrath Vázquez
-montserrath.vazquez@alumnos.cide.edu
+**Laboratorio:** TBD
 
-**Horario de Clase:** lunes y miércoles de 9:40 a 11:10 horas.
+**Horario de Clase:** Lunes 9:00 a 12:00 horas.
 
 **Horario de Laboratorio:** TBD.
 
