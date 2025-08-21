@@ -94,7 +94,7 @@ ${\color{green}\text{Presentación de Avance 2: Proyecto Final.}}$
 
 ### 7.	Especificación (2 sesiones).
 
-a.	Prueba de no linealidad; Error de medición; missing values.
+a.	No linealidad; Error de medición; missing values.
 
 *Ch.9, Wooldridge.*
 
