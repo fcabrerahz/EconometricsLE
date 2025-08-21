@@ -62,7 +62,7 @@ a.	Sesgo de selección y por omisión, Varianza del Error y de Estimadores; Nota
 
 [(Presentación aquí)](https://rpubs.com/fcabrerahz/metrics_leco_regmulti)
 
-${\color{green}\text{Avance 1: Proyecto Final. Septiembre 25.}}$
+${\color{green}\text{Presentación de Avance 1: Proyecto Final. Septiembre 25.}}$
 
 ### 4.	Test de Hipótesis (inferencia) (3 sesiones).
 
@@ -80,7 +80,7 @@ b.	Lectura 1: Fernandez, R. (2007). Women, work, and culture. Journal of the Eur
 
 [(Presentación aquí)](https://rpubs.com/fcabrerahz/metrics_leco_multi2)
 
-${\color{red}\text{EXAMEN Parcial (Octubre 14).}}$
+${\color{red}\text{EXAMEN Parcial (Octubre 13).}}$
 
 ### 6.	Heteroscedasticidad (3 sesiones).
 
