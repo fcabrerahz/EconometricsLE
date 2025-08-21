@@ -35,7 +35,7 @@ El objetivo del curso es dotar al alumno con las herramientas teóricas y práct
 - IV: Acemoglu, D., & Johnson, S. (2007). Disease and development: the effect of life expectancy on economic growth. Journal of Political Economy, 115(6), 925-985.
 
 ## Método de Evaluación:
-La calificación final se basará en dos examenes con una ponderación del 50% y un [proyecto final](https://github.com/fcabrerahz/EconometricsLE/blob/main/Proyecto%20Final/PROJECT.md) con ponderación de 30% (el proyecto se desarrolla a lo largo del semestre). El restante 20% corresponderá a los laboratorios a resolverse durante el semestre. Se deberá cumplir con todas las [actividades del laboratorio](https://github.com/fcabrerahz/EconometricsLE/tree/main/Actividades) (seis en el semestre) para tener derecho al examen correspondiente. Éstas tendrán un valor en la calificación únicamente si se entregan completas en la fecha y horario estipulados. Las lecturas obligatorias se discutirán entre todos, en sesiones tipo seminario, sin ponderación en la calificación final. 
+La calificación final se basará en dos examenes con una ponderación del 50% y un [proyecto final](https://github.com/fcabrerahz/EconometricsLE/blob/main/Proyecto%20Final/PROJECT.md) con ponderación de 30% (el proyecto se desarrolla a lo largo del semestre). El restante 20% corresponderá a los laboratorios a resolverse durante el semestre. Se deberá cumplir con todas las [actividades del laboratorio](https://github.com/fcabrerahz/EconometricsLE/tree/main/Actividades) (seis en el semestre) para tener derecho al examen correspondiente. Estas tendrán un valor en la calificación únicamente si se entregan completas en la fecha y horario estipulados. Las lecturas obligatorias se discutirán entre todos, en sesiones tipo seminario, sin ponderación en la calificación final. 
 
 ## Reglamento: 
 Llegar a clase puntual (sólo se admite un retraso de 10 minutos). No se puede utilizar celular durante la clase.
@@ -90,7 +90,7 @@ a.	Errores Robustos; Weighted and Feasible Least-Squares (WLS - FLS); Generalize
 
 [(Presentación aquí)](https://rpubs.com/fcabrerahz/metrics_leco_hetero)
 
-${\color{green}\text{Avance 2: Proyecto Final.}}$
+${\color{green}\text{Presentación de Avance 2: Proyecto Final.}}$
 
 ### 7.	Especificación (2 sesiones).
 
@@ -125,4 +125,4 @@ a.	Probit y Logit.
 
 *Ch.17, Wooldridge.* 
 
-${\color{red}\text{Proyecto Final (Diciembre 14),}}$
+${\color{red}\text{Proyecto Final (Diciembre 15),}}$
