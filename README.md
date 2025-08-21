@@ -88,7 +88,7 @@ a.	Errores Robustos; Weighted and Feasible Least-Squares (WLS - FLS); Generalize
 
 *Ch.8, Wooldridge.*
 
-[(Presentación aquí)](https://www.dropbox.com/scl/fi/66bf2zz0e0pydn7a8wg2p/Tema-6.-Heteroscedasticidad-y-Multicolinealidad.pptx?rlkey=xww4in6akomo3yhq9ie96xtgm&st=zryry41h&dl=0)
+[(Presentación aquí)](https://rpubs.com/fcabrerahz/metrics_leco_hetero)
 
 ${\color{green}\text{Avance 2: Proyecto Final.}}$
 
