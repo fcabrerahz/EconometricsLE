@@ -1,16 +1,15 @@
-# Econometría LE OT2024
+# Econometría LE OT2025
 
 **Profesor**: Dr. Francisco J. Cabrera
 francisco.cabrera@cide.edu
 
 **Oficina**: Planta Alta
 
-**Horas de Oficina**: lunes 12:10 a 14:10 horas o con cita.
+**Horas de Oficina**: Martes 09:00 a 11:00 horas o con cita.
 
-**Laboratorio:** Montserrath Vázquez
-montserrath.vazquez@alumnos.cide.edu
+**Laboratorio:** TBD
 
-**Horario de Clase:** lunes y miércoles de 9:40 a 11:10 horas.
+**Horario de Clase:** Lunes 9:00 a 12:00 horas.
 
 **Horario de Laboratorio:** TBD.
 
@@ -35,7 +34,7 @@ El objetivo del curso es dotar al alumno con las herramientas teóricas y práct
 - IV: Acemoglu, D., & Johnson, S. (2007). Disease and development: the effect of life expectancy on economic growth. Journal of Political Economy, 115(6), 925-985.
 
 ## Método de Evaluación:
-La calificación final se basará en un exámen parcial con una ponderación del 40% y un [proyecto final](https://github.com/fcabrerahz/EconometricsLE/blob/main/Proyecto%20Final/PROJECT.md) con ponderación de 40% (el proyecto se desarrolla a lo largo del semestre). El restante 20% corresponderá a los laboratorios a resolverse durante el semestre. Se deberá cumplir con todas las [actividades del laboratorio](https://github.com/fcabrerahz/EconometricsLE/tree/main/Actividades) (seis en el semestre) para tener derecho al examen correspondiente. Éstas tendrán un valor en la calificación únicamente si se entregan completas en la fecha y horario estipulados. Las lecturas obligatorias se discutirán entre todos, en sesiones tipo seminario, sin ponderación en la calificación final. 
+La calificación final se basará en dos examenes con una ponderación del 50% y un [proyecto final](https://github.com/fcabrerahz/EconometricsLE/blob/main/Proyecto%20Final/PROJECT.md) con ponderación de 30% (el proyecto se desarrolla a lo largo del semestre). El restante 20% corresponderá a los laboratorios a resolverse durante el semestre. Se deberá cumplir con todas las [actividades del laboratorio](https://github.com/fcabrerahz/EconometricsLE/tree/main/Actividades) (seis en el semestre) para tener derecho al examen correspondiente. Estas tendrán un valor en la calificación únicamente si se entregan completas en la fecha y horario estipulados. Las lecturas obligatorias se discutirán entre todos, en sesiones tipo seminario, sin ponderación en la calificación final. 
 
 ## Reglamento: 
 Llegar a clase puntual (sólo se admite un retraso de 10 minutos). No se puede utilizar celular durante la clase.
@@ -62,7 +61,7 @@ a.	Sesgo de selección y por omisión, Varianza del Error y de Estimadores; Nota
 
 [(Presentación aquí)](https://rpubs.com/fcabrerahz/metrics_leco_regmulti)
 
-${\color{green}\text{Avance 1: Proyecto Final. Septiembre 25.}}$
+${\color{green}\text{Presentación de Avance 1: Proyecto Final. Septiembre 25.}}$
 
 ### 4.	Test de Hipótesis (inferencia) (3 sesiones).
 
@@ -80,7 +79,7 @@ b.	Lectura 1: Fernandez, R. (2007). Women, work, and culture. Journal of the Eur
 
 [(Presentación aquí)](https://rpubs.com/fcabrerahz/metrics_leco_multi2)
 
-${\color{red}\text{EXAMEN Parcial (Octubre 14).}}$
+${\color{red}\text{EXAMEN Parcial (Octubre 13).}}$
 
 ### 6.	Heteroscedasticidad (3 sesiones).
 
@@ -88,13 +87,13 @@ a.	Errores Robustos; Weighted and Feasible Least-Squares (WLS - FLS); Generalize
 
 *Ch.8, Wooldridge.*
 
-[(Presentación aquí)](https://www.dropbox.com/scl/fi/66bf2zz0e0pydn7a8wg2p/Tema-6.-Heteroscedasticidad-y-Multicolinealidad.pptx?rlkey=xww4in6akomo3yhq9ie96xtgm&st=zryry41h&dl=0)
+[(Presentación aquí)](https://rpubs.com/fcabrerahz/metrics_leco_hetero)
 
-${\color{green}\text{Avance 2: Proyecto Final.}}$
+${\color{green}\text{Presentación de Avance 2: Proyecto Final.}}$
 
 ### 7.	Especificación (2 sesiones).
 
-a.	Prueba de no linealidad; Error de medición; missing values.
+a.	No linealidad; Error de medición; missing values.
 
 *Ch.9, Wooldridge.*
 
@@ -125,4 +124,4 @@ a.	Probit y Logit.
 
 *Ch.17, Wooldridge.* 
 
-${\color{red}\text{Proyecto Final (Diciembre 14),}}$
+${\color{red}\text{Proyecto Final (Diciembre 15),}}$
