@@ -1,0 +1,123 @@
+---
+title: "Actividad 4. Regresión Lineal Múltiple III: Inferencia, Dummies, e Interacciones."
+subtitle: "Econometría LECO"
+author: "Dr. Francisco Cabrera"
+output:
+  pdf_document: default
+  'pdf_document: default': default
+date: ''
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**Entregable**: Un archivo de Word o PDF (e.g. LaTex, R-Markdown) contestando correctamente a las preguntas abajo presentadas y gravado con su nombre, así como el archivo “Script” de R.
+
+## Entorno de trabajo en R
+
+```{r, include=T, results='hide', warning=FALSE}
+
+library(pacman)
+
+p_load(data.table, fixest, magrittr, wooldridge, multcomp)
+```
+
+## 1. Significancia Estadística
+
+```{r, include=T, results='hide', warning=FALSE}
+
+ # Load data
+    data("wage1")
+    ?wage
+
+    # Run regressions
+    #Asume no serial correlation and homoscedasticity
+
+    est_0 <-lm(lwage ~ educ, data = wage1)
+    summary(est_0)
+    #2 Compute p-value, insert the degrees of freedom
+    2*pt(-10.935, df = 2)
+
+```
+
+a\. Demuestre que el estadístico $t_{educ}=10.94$
+
+b\. ¿Se rechaza la $Ho: \beta=0$?
+
+c\. ¿Por lo menos con qué nivel de confianza estadística es significativo el coeficiente de educación? ¿con qué valor crítico?
+
+d\. Dibuje (a mano) el gráfico de la distribución $t$ que surge de c. donde aproximadamente identifique el área que equivale al p-value.
+
+e\. ¿Cuál es el supuesto clave para poder estimar el estadístico $t$?
+
+f\. Estime el intervalo de confianza al 99%
+
+g\. Dibuja (usando el software de R) un scatter plot de X y Y, y añade la línea de ajuste de regresión. ¿Los errores son homoscedásticos? ¿Se distribuyen normalmente? Dibuja (manualmente) cómo crees que luce la distribución de los residuos.
+
+## 2. Análisis de regresión del salario con experiencia, educación y género
+
+Con los datos de "$wage1$" (librería de Wooldridge en R) estime el modelo logaritmo del sueldo como dependiente y educación, experiencia y su cuadrado, además de la variable $female$ como explicativa.
+
+a\. Interprete el efecto del primer año de experiencia.
+
+b\. Interprete el efecto de la experiencia al pasar de 7 a 8 años de experiencia y de 17 a 18 años de experiencia respectivamente.
+
+c\. ¿Con cuántos años de experiencia se alcanza el máximo sueldo, ceteris paribus?
+
+d\. ¿Es estadísticamente significativa la experiencia en la educación de sueldos estimada?
+
+e\. ¿Cuál es el valor predicho del sueldo en dólares por hora para un hombre con 10 años de experiencia y 12 años de educación? ¿Cuál es el valor predicho para una mujer con las mismas características?
+
+f\. Interprete el coeficiente $female$ ¿Qué representa la constante del modelo? Intreprétela.
+
+## 3. Efectos diferenciados por género.
+
+Suponga que nos interesa saber cómo la educacion potencialmente tiene diferentes retornos para la mujer y para el hombre.
+
+a\. Estime una regresión con el logaritmo del sueldo como dependiente solamente para la muestra de mujeres y otra solamente para la muestra de hombres. Escriba la ecuación estimada y pegue los resultados incluyendo errores estándar robustos “hetero”. Hint:
+
+```{r, include=T, results='hide', warning=FALSE}
+
+est_o <- feols(wage ~ educ + exper + expersq, data=subset(wage1, female == "1"))
+```
+
+b\. ¿De qué tamaño es la diferencia entre los retornos a la educación (por año adicional) del hombre y los de la mujer?
+
+c\. Construya el intervalo de confianza al 95% del coeficiente de educación para ambas submuestras.
+
+d\. ¿Con el 95% de significancia estadística son significativamente distintos los coeficientes de educación para la muestra de hombres y de mujeres?
+
+e\. ¿Es estadísticamente distinto el retorno al primer año de experiencia para hombres y mujeres?
+
+## 4. Interacción entre educación, experiencia y género
+
+Estime una regresión con el logaritmo del sueldo como dependiente y como explicativas la educación, experiencia (sin su cuadrado), más la interacción entre estas dos variables y la $dummy$ que denota a las mujeres, más la variable $female$ sin interactuar. Escriba la ecuación estimada y:
+
+a\. Cree una tabla incluyendo estos resultados y los de 3.a.
+
+b\. Observando el resultado obtenido en esta regresión ¿Cuál es el retorno a un año extra de educación para los hombres? ¿Para mujeres? Explique cómo lo obtuvo.
+
+c\. ¿De qué tamaño es la diferencia en los retornos a la educación entre hombres y mujeres? ¿Es significativamente distinta la diferencia en el retorno a la educación entre hombres y mujeres? Explique.
+
+d\. ¿De qué tamaño es la diferencia en el retorno a un año extra de experiencia entre hombres y mujeres? ¿Es significativamente distinta esta diferencia?
+
+e\. En esta muestra y ceteris paribus ¿es más alto el logaritmo del sueldo promedio de las mujeres o el de los hombres? ¿En qué medida se encuentran?
+
+## 5. Agregando las dummies de industria. 
+
+Estime el modelo de la pregunta 4 agregando las $dummies$ de industria incluidas en la base de datos: $trade$, $services$, $profserv$.
+
+a\. Escriba la hipótesis nula a probarse y estime (manualmente) un test-F para verificar si en conjunto estas tres variables agregadas son significativas o no ¿qué concluye?
+
+b\. Estime la siguiente regresión e interprete el coeficiente $servicios$, $trade$ y $femtrade$:
+
+```{r, include=T, results='hide', warning=FALSE}
+
+wage1$femtrade <- wage1$female*wage1$trade   #adding a column with interactions
+
+est_4 <- feols(wage ~ educ + female + exper + services + trade + femtrade , data = wage1)
+etable(est_4, se = "hetero")        # Robust Standard Errors (HC1)
+
+
+```
