@@ -89,7 +89,7 @@ a.	Errores Robustos; Weighted and Feasible Least-Squares (WLS - FLS); Generalize
 
 [(Presentación aquí)](https://rpubs.com/fcabrerahz/metrics_leco_hetero)
 
-${\color{green}\text{Presentación de Avance 2: Proyecto Final.}}$
+${\color{green}\text{Envío de Avance 2: Proyecto Final.}}$
 
 ### 7.	Especificación (2 sesiones).
 
