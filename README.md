@@ -91,9 +91,9 @@ a.	Errores Robustos; Weighted and Feasible Least-Squares (WLS - FLS); Generalize
 
 ${\color{green}\text{Envío de Avance 2: Proyecto Final.}}$
 
-### 7.	Especificación (2 sesiones).
+### 7.	Error de Medición (2 sesiones).
 
-a.	No linealidad; Error de medición; missing values.
+a.	Variables Proxy; Error de medición y missing values.
 
 *Ch.9, Wooldridge.*
 
