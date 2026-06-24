@@ -7,7 +7,7 @@ francisco.cabrera@cide.edu
 
 **Horas de Oficina**: Martes 09:00 a 11:00 horas o con cita.
 
-**Laboratorio:** Donovan Diaz Moreno 
+**Laboratorio:** Donovan Díaz Moreno 
 donovan.diaz@alumnos.cide.edu
 
 **Horario de Clase:** Lunes 9:30 a 11:30 horas.
@@ -26,7 +26,7 @@ El objetivo del curso es dotar al alumno de las herramientas teóricas y prácti
 
 ## Bibliografía:
 1.	Wooldridge J.M. Introduction to Econometrics: A Modern Approach, 7th Edition. Editorial Cengage Learning
-2.	Verbeek M. A Guide to Modern Econometrics Fifth Edition. Editorial Wiley.
+2.	Verbeek M. A Guide to Modern Econometrics, Fifth Edition. Editorial Wiley.
 3.	Angrist, J. D., & Pischke, J. S. (2009). Mostly harmless econometrics: An empiricist's companion. Princeton University Press.
 
 ## Lecturas Obligatorias:
@@ -121,6 +121,6 @@ a.	Lectura 3: Cabrera, F., & Ventosa, D. (2026). Working a Way Out: Female Emplo
 
 [(Presentación aquí)](https://www.dropbox.com/scl/fi/nq9utur7c2a54bqvz9nr8/Tema-9.-Variables-Instrumentales.pptx?rlkey=ci5b9atx0gxzvs56f7pa5y7x2&st=hc88bh3d&dl=0)
 
-${\color{red}\text{Examen Final (diciembre 7),}}$
+${\color{red}\text{Examen Final (diciembre 7).}}$
 
-${\color{red}\text{Proyecto Final (diciembre 10),}}$
+${\color{red}\text{Proyecto Final (diciembre 10).}}$
