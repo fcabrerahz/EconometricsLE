@@ -94,17 +94,45 @@ Puedes discutir ideas y estrategias con tus compañeros. No puedes compartir có
 
 ---
 
-## Rol del laboratorista:
+## Peer Review
 
-El asistente conduce un **laboratorio de 1.5 horas cada semana** dedicado al PS en curso. Asistir al laboratorio es la mejor manera de avanzar en el PS con apoyo directo.
+El profesor asigna parejas al inicio del semestre. Después de cada entrega final tienes **2 días** para revisar el trabajo de tu compañero y él revisa el tuyo.
 
-El asistente no resuelve los ejercicios fuera del horario de laboratorio. Las dudas fuera de ese horario se atienden a través del bot @leco-bot o durante las horas de oficina del profesor.
+**¿Dónde se hace?**
+En la pestaña **"Issues"** del repositorio de tu compañero. Abre un Issue llamado `Revisión PS1 — [tu nombre]` y escribe ahí tus comentarios.
+
+**¿Qué debes comentar?**
+- **2 respuestas del PS** señalando líneas de código específicas
+- Al menos **1 sugerencia de mejora** concreta
+
+Ejemplo de comentario válido:
+```
+P2f, línea 45: usaste SSE/SST pero R² = SSR/SST.
+¿Revisaste la definición de cada componente?
+```
+
+**Lo que no es válido:**
+Comentarios genéricos como *"bien"*, *"correcto"* o *"ok"* sin señalar líneas específicas.
+
+**Como autor:** debes responder los comentarios que recibiste dentro del mismo Issue.
 
 ---
 
-## Ponderación
+## Rol del asistente de profesor
 
-Cada PS tiene el mismo peso en la calificación final. Dentro de cada PS, el criterio de proceso (commits, uso del bot) pondera el **20%** y el resultado, el **80%**.
+El asistente conduce un **laboratorio de 1.5 horas cada semana** dedicado al PS en curso. Asistir al laboratorio es la mejor manera de avanzar en el PS con apoyo directo.
+
+El asistente no resuelve los ejercicios fuera del horario de laboratorio. Las dudas fuera de ese horario se atienden a través del bot @leco-bot o en las horas de oficina del profesor.
+
+---
+
+## Ponderación por PS
+
+| Componente | Peso |
+|---|---|
+| Resultado (respuestas correctas) | 60% |
+| Proceso (commits + uso del bot) | 20% |
+| Peer review (como revisor y como autor) | 20% |
 
 ---
 
@@ -117,7 +145,10 @@ Cada PS tiene el mismo peso en la calificación final. Dentro de cada PS, el cri
 | Consultas al bot documentadas | 3 por PS |
 | Protocolo de consulta | Completo en cada consulta |
 | Archivos entregados | `.Rmd` + `.pdf` que compila |
+| Comentarios de peer review | 2 respuestas con líneas específicas |
+| Sugerencia de mejora | 1 por revisión |
+| Respuesta a comentarios recibidos | Obligatoria |
 
 ---
 
-*Econometría LECO — CIDE | Cualquier duda sobre estas reglas, consúltala en la primera sesión de laboratorio.*
+*Econometría LECO — CIDE | Cualquier duda sobre estas reglas, consúltala en la primera sesión de laboratorio y en clase.*
