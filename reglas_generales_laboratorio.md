@@ -94,17 +94,17 @@ Puedes discutir ideas y estrategias con tus compañeros. No puedes compartir có
 
 ---
 
-## Rol del asistente de profesor
+## Rol del laboratorista:
 
 El asistente conduce un **laboratorio de 1.5 horas cada semana** dedicado al PS en curso. Asistir al laboratorio es la mejor manera de avanzar en el PS con apoyo directo.
 
-El asistente no resuelve los ejercicios fuera del horario de laboratorio. Las dudas fuera de ese horario se atienden a través del bot @leco-bot o en las horas de oficina del profesor.
+El asistente no resuelve los ejercicios fuera del horario de laboratorio. Las dudas fuera de ese horario se atienden a través del bot @leco-bot o durante las horas de oficina del profesor.
 
 ---
 
 ## Ponderación
 
-Cada PS tiene el mismo peso en la calificación final. Dentro de cada PS, el criterio de proceso (commits, uso del bot) pondera **20%** y el resultado **80%**.
+Cada PS tiene el mismo peso en la calificación final. Dentro de cada PS, el criterio de proceso (commits, uso del bot) pondera el **20%** y el resultado, el **80%**.
 
 ---
 
