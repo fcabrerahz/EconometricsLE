@@ -1,4 +1,4 @@
-# Econometría LE OT2025
+# Econometría LE OT2026
 
 **Profesor**: Dr. Francisco J. Cabrera
 francisco.cabrera@cide.edu
@@ -7,14 +7,15 @@ francisco.cabrera@cide.edu
 
 **Horas de Oficina**: Martes 09:00 a 11:00 horas o con cita.
 
-**Laboratorio:** TBD
+**Laboratorio:** Donovan Diaz Moreno 
+donovan.diaz@alumnos.cide.edu
 
-**Horario de Clase:** Lunes 9:00 a 12:00 horas.
+**Horario de Clase:** Lunes 9:30 a 11:30 horas.
 
-**Horario de Laboratorio:** TBD.
+**Horario de Laboratorio:** Por definir.
 
 ## Objetivo General:
-El objetivo del curso es dotar al alumno con las herramientas teóricas y prácticas necesarias para entender y aplicar las técnicas econométricas más usuales en el análisis de la relación entre variables económicas. 
+El objetivo del curso es dotar al alumno de las herramientas teóricas y prácticas necesarias para comprender y aplicar las técnicas econométricas más comunes en el análisis de la relación entre variables económicas. 
 
 ## Objetivos Específicos:
 -	Aprender la teoría econométrica detrás del modelo de regresión simple y multivariado.
@@ -75,7 +76,7 @@ a.	Propiedades Asintóticas, Otras especificaciones e interacciones; Variables D
 
 *Ch.5, Ch.6, Ch.7, Wooldridge.*
 
-b.	Lectura 1: Fernandez, R. (2007). Women, work, and culture. Journal of the European Economic Association, 5(2-3), 305-332.
+b.	Lectura 1: Fernández, R. (2007). Women, work, and culture. Journal of the European Economic Association, 5(2-3), 305-332.
 
 [(Presentación aquí)](https://rpubs.com/fcabrerahz/metrics_leco_multi2)
 
