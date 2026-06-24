@@ -34,18 +34,16 @@ El objetivo del curso es dotar al alumno de las herramientas teóricas y prácti
 - RCT: Dynarski, S., Libassi, C. J., Michelmore, K., & Owen, S. (2018). Closing the Gap: The Effect of a Targeted, Tuition-Free Promise on College Choices of High-Achieving, Low-Income Students (No. w25349). National Bureau of Economic Research.
 - IV: Cabrera, F., & Ventosa, D. (2026). Working a Way Out: Female Employment and Domestic Violence in Mexico.
 
+**Las lecturas obligatorias se discutirán entre todos, en sesiones tipo seminario, sin ponderación en la calificación final.** 
+
 ## Método de Evaluación:
 La calificación final se basará en dos exámenes, con una ponderación del 50%, y en un [proyecto final](https://github.com/fcabrerahz/EconometricsLE/blob/main/Proyecto%20Final/PROJECT.md), con una ponderación del 30% (el proyecto se desarrolla a lo largo del semestre). 
 
 El 20% restante corresponderá a los laboratorios que se resolverán durante el semestre. Se deberá cumplir con todas los problem sets (PS) (seis durante el semestre) para tener derecho al examen correspondiente. Estas tendrán valor en la calificación únicamente si se entregan completas en la fecha y el horario estipulados. 
 
-## Herramientas de trabajo y Problem Sets
+## Herramientas de trabajo y Problem Sets (PS)
 
-Las actividades del laboratorio se desarrollan en **RStudio** (R Markdown)  y se entregan via **GitHub**. Consulta las instrucciones antes de comenzar:
-
-- [Reglas generales de problem sets y uso del tutor IA](reglas_generales_course.md)
-
-Las lecturas obligatorias se discutirán entre todos, en sesiones tipo seminario, sin ponderación en la calificación final. 
+Las actividades del laboratorio se desarrollan en **RStudio** (R Markdown)  y se entregan vía **GitHub**. Consulta las [Reglas generales de problem sets y uso del tutor IA](reglas_generales_course.md)
 
 ## Reglamento: 
 Llegar a clase puntualmente (sólo se admite un retraso de 10 minutos). No se puede utilizar el celular durante la clase.
