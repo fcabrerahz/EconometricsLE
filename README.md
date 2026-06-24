@@ -43,7 +43,7 @@ El 20% restante corresponderá a los laboratorios que se resolverán durante el 
 
 ## Herramientas de trabajo y Problem Sets (PS)
 
-Las actividades del laboratorio se desarrollan en **RStudio** (R Markdown)  y se entregan vía **GitHub**. Consulta las [Reglas generales de problem sets y uso del tutor IA](reglas_generales_course.md)
+Las actividades del laboratorio se desarrollan en **RStudio** (R Markdown)  y se entregan vía **GitHub**. Consulta las [Reglas generales de problem sets y uso del tutor IA](reglas_generales_laboratorio.md)
 
 ## Reglamento: 
 Llegar a clase puntualmente (sólo se admite un retraso de 10 minutos). No se puede utilizar el celular durante la clase.
