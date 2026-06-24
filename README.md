@@ -37,7 +37,15 @@ El objetivo del curso es dotar al alumno de las herramientas teóricas y prácti
 ## Método de Evaluación:
 La calificación final se basará en dos exámenes, con una ponderación del 50%, y en un [proyecto final](https://github.com/fcabrerahz/EconometricsLE/blob/main/Proyecto%20Final/PROJECT.md), con una ponderación del 30% (el proyecto se desarrolla a lo largo del semestre). 
 
-El 20% restante corresponderá a los laboratorios que se resolverán durante el semestre. Se deberá cumplir con todas las [actividades del laboratorio](https://github.com/fcabrerahz/EconometricsLE/tree/main/Actividades) (seis durante el semestre) para tener derecho al examen correspondiente. Estas tendrán un valor en la calificación únicamente si se entregan completas en la fecha y el horario estipulados. Las lecturas obligatorias se discutirán entre todos, en sesiones tipo seminario, sin ponderación en la calificación final. 
+El 20% restante corresponderá a los laboratorios que se resolverán durante el semestre. Se deberá cumplir con todas los problem sets (PS) (seis durante el semestre) para tener derecho al examen correspondiente. Estas tendrán valor en la calificación únicamente si se entregan completas en la fecha y el horario estipulados. 
+
+## Herramientas de trabajo y Problem Sets
+
+Las actividades del laboratorio se desarrollan en **RStudio** (R Markdown)  y se entregan via **GitHub**. Consulta las instrucciones antes de comenzar:
+
+- [Reglas generales de problem sets y uso del tutor IA](reglas_generales_course.md)
+
+Las lecturas obligatorias se discutirán entre todos, en sesiones tipo seminario, sin ponderación en la calificación final. 
 
 ## Reglamento: 
 Llegar a clase puntualmente (sólo se admite un retraso de 10 minutos). No se puede utilizar el celular durante la clase.
