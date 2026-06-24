@@ -32,13 +32,15 @@ El objetivo del curso es dotar al alumno de las herramientas teóricas y prácti
 ## Lecturas Obligatorias:
 - OLS: Fernandez, R. (2007). Women, work, and culture. Journal of the European Economic Association, 5(2-3), 305-332.
 - RCT: Dynarski, S., Libassi, C. J., Michelmore, K., & Owen, S. (2018). Closing the Gap: The Effect of a Targeted, Tuition-Free Promise on College Choices of High-Achieving, Low-Income Students (No. w25349). National Bureau of Economic Research.
-- IV: Acemoglu, D., & Johnson, S. (2007). Disease and development: the effect of life expectancy on economic growth. Journal of Political Economy, 115(6), 925-985.
+- IV: Cabrera, F., & Ventosa, D. (2026). Working a Way Out: Female Employment and Domestic Violence in Mexico.
 
 ## Método de Evaluación:
-La calificación final se basará en dos examenes con una ponderación del 50% y un [proyecto final](https://github.com/fcabrerahz/EconometricsLE/blob/main/Proyecto%20Final/PROJECT.md) con ponderación de 30% (el proyecto se desarrolla a lo largo del semestre). El restante 20% corresponderá a los laboratorios a resolverse durante el semestre. Se deberá cumplir con todas las [actividades del laboratorio](https://github.com/fcabrerahz/EconometricsLE/tree/main/Actividades) (seis en el semestre) para tener derecho al examen correspondiente. Estas tendrán un valor en la calificación únicamente si se entregan completas en la fecha y horario estipulados. Las lecturas obligatorias se discutirán entre todos, en sesiones tipo seminario, sin ponderación en la calificación final. 
+La calificación final se basará en dos exámenes, con una ponderación del 50%, y en un [proyecto final](https://github.com/fcabrerahz/EconometricsLE/blob/main/Proyecto%20Final/PROJECT.md), con una ponderación del 30% (el proyecto se desarrolla a lo largo del semestre). 
+
+El 20% restante corresponderá a los laboratorios que se resolverán durante el semestre. Se deberá cumplir con todas las [actividades del laboratorio](https://github.com/fcabrerahz/EconometricsLE/tree/main/Actividades) (seis durante el semestre) para tener derecho al examen correspondiente. Estas tendrán un valor en la calificación únicamente si se entregan completas en la fecha y el horario estipulados. Las lecturas obligatorias se discutirán entre todos, en sesiones tipo seminario, sin ponderación en la calificación final. 
 
 ## Reglamento: 
-Llegar a clase puntual (sólo se admite un retraso de 10 minutos). No se puede utilizar celular durante la clase.
+Llegar a clase puntualmente (sólo se admite un retraso de 10 minutos). No se puede utilizar el celular durante la clase.
 
 ## Temario:
  
@@ -62,13 +64,15 @@ a.	Sesgo de selección y por omisión, Varianza del Error y de Estimadores; Nota
 
 [(Presentación aquí)](https://rpubs.com/fcabrerahz/metrics_leco_regmulti)
 
-${\color{green}\text{Presentación de Avance 1: Proyecto Final. Septiembre 25.}}$
+${\color{green}\text{Presentación de Avance 1: Proyecto Final. Septiembre}}$
 
-### 4.	Test de Hipótesis (inferencia) (3 sesiones).
+### 4.	Test de Hipótesis (inferencia) (2 sesiones).
 
 *Ch.4, Wooldridge.*
 
 [(Presentación aquí)](https://www.dropbox.com/scl/fi/a2ah3sstudwx5vug1u224/Tema-4.-Inference.pptx?rlkey=gsc4l4dylqkdp23ij88shhpx2&st=6baw08gx&dl=0)
+
+${\color{red}\text{EXAMEN Parcial (octubre 7).}}$
 
 ### 5.	Regresión Múltiple II: (3 Sesiones).
 
@@ -79,8 +83,6 @@ a.	Propiedades Asintóticas, Otras especificaciones e interacciones; Variables D
 b.	Lectura 1: Fernández, R. (2007). Women, work, and culture. Journal of the European Economic Association, 5(2-3), 305-332.
 
 [(Presentación aquí)](https://rpubs.com/fcabrerahz/metrics_leco_multi2)
-
-${\color{red}\text{EXAMEN Parcial (Octubre 13).}}$
 
 ### 6.	Heteroscedasticidad (3 sesiones).
 
@@ -115,14 +117,10 @@ b.	Lectura 2: Dynarski, S., Libassi, C. J., Michelmore, K., & Owen, S. (2018). C
 
 *Ch.15, Wooldridge.*
 
-a.	Lectura 3: Acemoglu, D., & Johnson, S. (2007). Disease and development: the effect of life expectancy on economic growth. Journal of Political Economy, 115(6), 925-985.
+a.	Lectura 3: Cabrera, F., & Ventosa, D. (2026). Working a Way Out: Female Employment and Domestic Violence in Mexico.
 
 [(Presentación aquí)](https://www.dropbox.com/scl/fi/nq9utur7c2a54bqvz9nr8/Tema-9.-Variables-Instrumentales.pptx?rlkey=ci5b9atx0gxzvs56f7pa5y7x2&st=hc88bh3d&dl=0)
 
-### 10.	Variable dependiente limitada (3 sesiones)
+${\color{red}\text{Examen Final (diciembre 7),}}$
 
-a.	Probit y Logit.
-
-*Ch.17, Wooldridge.* 
-
-${\color{red}\text{Proyecto Final (Diciembre 15),}}$
+${\color{red}\text{Proyecto Final (diciembre 10),}}$
