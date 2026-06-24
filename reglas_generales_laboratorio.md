@@ -88,15 +88,9 @@ El uso de IA sin comprensión se detecta en el examen. Los PS son práctica — 
 
 ---
 
-## Reglas de colaboración
-
-Puedes discutir ideas y estrategias con tus compañeros. No puedes compartir código ni respuestas escritas. Repositorios con código idéntico o muy similar reciben calificación de cero para ambos estudiantes.
-
----
-
 ## Peer Review
 
-El profesor asigna parejas al inicio del semestre. Después de cada entrega final tienes **2 días** para revisar el trabajo de tu compañero y él revisa el tuyo.
+El laboratorista asigna parejas antes de cada nuevo PS. Después de cada entrega, tienes **2 días** para revisar el trabajo de tu compañero/a y él/ella revisa el tuyo.
 
 **¿Dónde se hace?**
 En la pestaña **"Issues"** del repositorio de tu compañero. Abre un Issue llamado `Revisión PS1 — [tu nombre]` y escribe ahí tus comentarios.
