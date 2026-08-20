@@ -11,7 +11,7 @@
 
 **1.	Presentación de la pregunta de investigación** Cada equipo, en no más de 5 minutos, deberá presentar su pregunta de interés en clase y justificarla, de acuerdo con literatura relacionada (fecha aproximada, segunda semana de septiembre) (*ponderación 25%*).
 
-**2.	Reporte de estadísticas descriptivas.** Por ejemplo, incluyendo una tabla con media, desviación estándar y número de observaciones, así como algunos gráficos de barras y *scatterplots* de las variables dependientes y explicativas conforme apliquen (fecha aproximada de entrega primera semana de noviembre). Este reporte no debe tener una extensión mayor a 4 cuartillas (*ponderación 25%*).
+**2.	Reporte de estadísticas descriptivas.** Por ejemplo, incluyendo una tabla con media, desviación estándar y número de observaciones, así como algunos gráficos de barras y *scatterplots* de las variables dependientes y explicativas conforme apliquen (fecha aproximada de entrega primera semana de noviembre). Este reporte no debe tener una extensión mayor a 4 cuartillas (*ponderación 25%*). [Vea este link como ejemplo de un reporte descriptivo corto.]{https://www.mckinsey.com/industries/education/our-insights/racial-and-ethnic-equity-in-us-higher-education#/}
 
 **3.	Entrega de reporte final.** El reporte debe contener: (10 de diciembre) (*ponderación 50%*). 
 
@@ -21,9 +21,9 @@ iii.	Descripción del método (en este caso se espera que todos utilicen, al men
 iv.	Resultados. \
 v.	Limitaciones del método utilizado ¿Cuál sería el *set-up* ideal para poder responder a su pregunta?
 
-*La extensión del reporte final es relativamente libre, pero debe ser de 9 cuartillas como máximo.  
+*La extensión del reporte final es relativamente libre, pero debe ser de 8 cuartillas como máximo.  
 
--	La base de datos para este proyecto está acotada a su elección entre: \
-a.  la Encuesta Nacional de Ingreso y Gasto de los Hogares (en los años pertinentes, sugiero el uso de un solo cohorte, máximo dos) \
-b. la Encuesta Nacional de Ocupación y Empleo (en los años-trimestres pertinentes)	
+-	La base de datos para este proyecto está acotada a su elección, como mínimo, entre: \
+a. La Encuesta Nacional de Ingreso y Gasto de los Hogares (en los años pertinentes, sugiero el uso de un solo cohorte, máximo dos) \
+b. La Encuesta Nacional de Ocupación y Empleo (en los años-trimestres pertinentes)	
 
