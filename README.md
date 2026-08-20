@@ -7,10 +7,10 @@ francisco.cabrera@cide.edu
 
 **Horas de Oficina**: Martes 09:00 a 11:00 horas o con cita.
 
-**Laboratorio:** Donovan Díaz Moreno 
-donovan.diaz@alumnos.cide.edu
+**Laboratorio:** Santiago Santana Chavero 
+santiago.santana@alumnos.cide.edu
 
-**Horario de Clase:** Lunes 9:30 a 11:30 horas.
+**Horario de Clase:** lunes y miércoles 9:30 a 11:30 horas.
 
 **Horario de Laboratorio:** Por definir.
 
@@ -30,23 +30,23 @@ El objetivo del curso es dotar al alumno de las herramientas teóricas y prácti
 3.	Angrist, J. D., & Pischke, J. S. (2009). Mostly harmless econometrics: An empiricist's companion. Princeton University Press.
 
 ## Lecturas Obligatorias:
-- OLS: Fernandez, R. (2007). Women, work, and culture. Journal of the European Economic Association, 5(2-3), 305-332.
+- Sandra E. Black, Do Better Schools Matter? Parental Valuation of Elementary Education, The Quarterly Journal of Economics, Volume 114, Issue 2, May 1999, Pages 577–599, https://doi.org/10.1162/003355399556070.
 - RCT: Dynarski, S., Libassi, C. J., Michelmore, K., & Owen, S. (2018). Closing the Gap: The Effect of a Targeted, Tuition-Free Promise on College Choices of High-Achieving, Low-Income Students (No. w25349). National Bureau of Economic Research.
 - IV: Cabrera, F., & Ventosa, D. (2026). Working a Way Out: Female Employment and Domestic Violence in Mexico.
 
 **Las lecturas obligatorias se discutirán entre todos, en sesiones tipo seminario, sin ponderación en la calificación final.** 
 
 ## Método de Evaluación:
-La calificación final se basará en dos exámenes, con una ponderación del 50%, y en un [proyecto final](PROJECT.md), con una ponderación del 30% (el proyecto se desarrolla a lo largo del semestre). 
+La calificación final se basará en dos exámenes, con una ponderación del 60%, y en un [proyecto final](PROJECT.md), con una ponderación del 20% (el proyecto se desarrolla a lo largo del semestre). 
 
-El 20% restante corresponderá a los laboratorios que se resolverán durante el semestre. Se deberá cumplir con todas los problem sets (PS) (seis durante el semestre) para tener derecho al examen correspondiente. Estas tendrán valor en la calificación únicamente si se entregan completas en la fecha y el horario estipulados. 
+El 20% restante corresponderá a los laboratorios que se resolverán durante el semestre. Se deberá cumplir con todos los problem sets (PS) (seis durante el semestre) para tener derecho al examen correspondiente. Estas tendrán valor en la calificación únicamente si se entregan completas en la fecha y el horario estipulados. 
 
 ## Herramientas de trabajo y Problem Sets (PS)
 
-Las actividades del laboratorio se desarrollan en **RStudio** (R Markdown)  y se entregan vía **GitHub**. Consulta las [Reglas generales de problem sets y uso del tutor IA](reglas_generales_laboratorio.md)
+Las actividades del laboratorio se desarrollan en **RStudio** (R Markdown)  y se entregan a través de **GitHub**. Consulta las [Reglas generales de problem sets y uso del tutor IA](reglas_generales_laboratorio.md)
 
 ## Reglamento: 
-Llegar a clase puntualmente (sólo se admite un retraso de 10 minutos). No se puede utilizar el celular durante la clase.
+Llegar a clase puntualmente (se admite un retraso máximo de 10 minutos). No se puede utilizar el celular durante la clase.
 
 ## Temario:
  
