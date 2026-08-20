@@ -11,7 +11,7 @@
 
 **1.	Presentación de la pregunta de investigación** Cada equipo, en no más de 5 minutos, deberá presentar su pregunta de interés en clase y justificarla, de acuerdo con literatura relacionada (fecha aproximada, segunda semana de septiembre) (*ponderación 25%*).
 
-**2.	Reporte de estadísticas descriptivas.** Por ejemplo, incluyendo una tabla con media, desviación estándar y número de observaciones, así como algunos gráficos de barras y *scatterplots* de las variables dependientes y explicativas conforme apliquen (fecha aproximada de entrega primera semana de noviembre). Este reporte no debe tener una extensión mayor a 4 cuartillas (*ponderación 25%*). [Vea este link como ejemplo de un reporte descriptivo corto.]{https://www.mckinsey.com/industries/education/our-insights/racial-and-ethnic-equity-in-us-higher-education#/}
+**2.	Reporte de estadísticas descriptivas.** Por ejemplo, incluyendo una tabla con media, desviación estándar y número de observaciones, así como algunos gráficos de barras y *scatterplots* de las variables dependientes y explicativas conforme apliquen (fecha aproximada de entrega primera semana de noviembre). Este reporte no debe tener una extensión mayor a 4 cuartillas (*ponderación 25%*). [Vea este link como ejemplo de un reporte descriptivo corto.](https://www.mckinsey.com/industries/education/our-insights/racial-and-ethnic-equity-in-us-higher-education#/)
 
 **3.	Entrega de reporte final.** El reporte debe contener: (10 de diciembre) (*ponderación 50%*). 
 
