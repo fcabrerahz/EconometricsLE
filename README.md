@@ -86,7 +86,7 @@ a.	Propiedades Asintóticas, Otras especificaciones e interacciones; Variables D
 
 *Ch.5, Ch.6, Ch.7, Wooldridge.*
 
-b.	Lectura 1: Fernández, R. (2007). Women, work, and culture. Journal of the European Economic Association, 5(2-3), 305-332.
+b.	Lectura 1: Sandra E. Black, Do Better Schools Matter? Parental Valuation of Elementary Education, The Quarterly Journal of Economics, Volume 114, Issue 2, May 1999, Pages 577–599, 
 
 [(Presentación aquí)](https://rpubs.com/fcabrerahz/metrics_leco_multi2)
 
