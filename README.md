@@ -125,7 +125,7 @@ b.	Lectura 2: Dynarski, S., Libassi, C. J., Michelmore, K., & Owen, S. (2018). C
 
 a.	Lectura 3: Cabrera, F., & Ventosa, D. (2026). Working a Way Out: Female Employment and Domestic Violence in Mexico.
 
-[(Presentación aquí)](https://www.dropbox.com/scl/fi/nq9utur7c2a54bqvz9nr8/Tema-9.-Variables-Instrumentales.pptx?rlkey=ci5b9atx0gxzvs56f7pa5y7x2&st=hc88bh3d&dl=0)
+[(Presentación aquí)](https://rpubs.com/fcabrerahz/metrics_leco_iv)
 
 ${\color{red}\text{Examen Final (diciembre 7).}}$
 
